@@ -1,0 +1,78 @@
+html, body{
+	font-family: Arial, sans-serif;
+	margin: 0;
+}
+
+header{
+	background-color: #1aff1a;
+	padding: 40px;
+	text-align: center;
+}
+
+h1{
+	font-size: 90px;
+	color: black;
+	font-style: italic;
+
+}
+
+h2{
+	font-size: 45px;
+}
+p{
+font-size: 20px;
+}
+
+header img{ 
+	border-radius: 300px;
+	border: 10px solid #003300
+
+}
+
+div{
+	background-color: #99ff99;
+}
+.content{
+	max-width: 900px;
+	margin: 0 auto;
+	padding: 0 20px;
+	background color: #4dff4d;
+}
+
+img.big-image{
+	max-width: 100%;
+	width: 600px;
+}
+
+img.rosco{
+	max-width: 100%
+	width: 600px;
+}
+
+.caption{
+	font-size: 35px;
+	font-style: italic;
+}
+
+ul{
+	list-style: none;
+}
+
+li{
+	font-size: 20px;
+}
+
+footer{
+	margin-top: 20px;
+	padding: 40px 20px;
+	background-color: #ccffcc
+}
+
+footer ul{
+	text-align: center;
+}
+
+footer ul line{
+	display: inline-block;
+	margin: 0 5px;
+}
